@@ -8,8 +8,12 @@
 ->Revised some basic ML topics like regression and clasification.
 
 ->Solved problems:
-  Longest Substring Without Repeating Characters 
-  Merge Strings Alternately
-  Longest Common Prefix
-  Length Of Last Word
+
+  Longest Substring Without Repeating Characters.
+  
+  Merge Strings Alternately.
+  
+  Longest Common Prefix.
+  
+  Length Of Last Word.
 
