@@ -1,7 +1,6 @@
 # Leetcode - Log
 
 ### Day 0: April 19, 2023
-##### (delete me or comment me out)
 
 **Today's Progress**: 
 
@@ -17,3 +16,14 @@
   
   Length Of Last Word.
 
+### Day 1: April 20, 2023
+
+**Today's Progress**: 
+
+-> Started the Recursion playlist from CodeHelp.
+
+->Solved Problems:
+
+  Integer To Roman.
+  
+  Median of Two Sorted Arrays.
