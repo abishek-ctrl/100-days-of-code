@@ -16,3 +16,13 @@ Length Of Last Word.
 Integer To Roman.
   
 Median of Two Sorted Arrays.
+
+**Day 2:**
+
+Reverse Integer.
+
+3Sum.
+
+3Sum Closest.
+
+Search Insert Position.
