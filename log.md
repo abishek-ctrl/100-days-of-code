@@ -27,3 +27,19 @@
   Integer To Roman.
   
   Median of Two Sorted Arrays.
+  
+ ### Day 2: April 21, 2023
+
+**Today's Progress**:
+
+->Practiced Two Pointers and more of Recursion.
+
+->Solved Problems:
+
+  Reverse Integer.
+  
+  3Sum.
+  
+  3Sum Closest.
+  
+  Search Insert Position.
