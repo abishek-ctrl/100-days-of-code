@@ -26,3 +26,13 @@ Reverse Integer.
 3Sum Closest.
 
 Search Insert Position.
+
+**Day 3:**
+
+Minimum Insertion Steps to Make a String Palindrome
+
+Longest Palindromic Substring
+
+Generate Parentheses
+
+
