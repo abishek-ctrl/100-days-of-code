@@ -35,4 +35,8 @@ Longest Palindromic Substring
 
 Generate Parentheses
 
+**Day 4:**
 
+Running Sum of 1d Array
+
+Find Pivot Index
