@@ -40,3 +40,7 @@ Generate Parentheses
 Running Sum of 1d Array
 
 Find Pivot Index
+
+**Day 5:**
+
+Prepared for my Mid Term Examinations
