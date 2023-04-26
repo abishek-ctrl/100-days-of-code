@@ -41,6 +41,6 @@ Running Sum of 1d Array
 
 Find Pivot Index
 
-**Day 5-6:**
+**Day 5-7:**
 
 Prepared for my Mid Term Examinations
