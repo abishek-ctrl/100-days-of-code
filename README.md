@@ -44,3 +44,7 @@ Find Pivot Index
 **Day 5-7:**
 
 Prepared for my Mid Term Examinations
+
+**Day-8:**
+
+Solved Bulb Switcher I and II
