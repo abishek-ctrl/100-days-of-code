@@ -48,3 +48,11 @@ Prepared for my Mid Term Examinations
 **Day-8:**
 
 Solved Bulb Switcher I and II
+
+**Day-9:**
+
+Longest Palindromic Substring
+
+Find the Winner of the Circular Game
+
+Remove Duplicates from Sorted Array
