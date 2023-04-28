@@ -43,3 +43,17 @@
   3Sum Closest.
   
   Search Insert Position.
+  
+## Took a break to prepare for my examinations
+ 
+### Day 3: April 28, 2023
+
+**Today's Progress**:
+
+->Solved Problems:
+
+  Longest Palindromic Substring
+  
+  Find the Winner of the Circular Game
+  
+  Remove Duplicates from Sorted Array
