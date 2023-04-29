@@ -59,3 +59,19 @@
   Remove Duplicates from Sorted Array
 
   Similar String Groups
+
+### Day 4: April 29, 2023
+
+**Today's Progress**:
+
+->Learnt Linked Lists and its types
+
+->Watched a CodeHelp video on Pointers
+
+->Attended first contest on Leetcode(Biweekly Contest 103)
+
+->Solved Problems:
+
+  Remove Element
+  
+  Maximum Sum With Exactly K Elements(Biweekly Contest 103)
