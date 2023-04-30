@@ -75,3 +75,15 @@
   Remove Element
   
   Maximum Sum With Exactly K Elements(Biweekly Contest 103)
+  
+### Day 5: April 30, 2023
+
+**Today's Progress**:
+
+->Learnt about C++ implementation of Data Structures
+
+->Solved Problems:
+
+  Valid Parentheses
+
+  Container With Most Water
