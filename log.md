@@ -87,3 +87,17 @@
   Valid Parentheses
 
   Container With Most Water
+
+### Day 6: May 1, 2023
+
+**Today's Progress**:
+
+->Learnt and coded Rat in a Maze
+
+->Watched videos on various CNN Architectures
+
+->Solved Problems:
+
+  Average Salary Excluding the Minimum and Maximum Salary
+  
+  Letter Combinations of a Phone Number
