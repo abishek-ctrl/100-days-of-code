@@ -101,3 +101,19 @@
   Average Salary Excluding the Minimum and Maximum Salary
   
   Letter Combinations of a Phone Number
+
+### Day 7: May 2, 2023
+
+**Today's Progress**:
+
+->Studied Warnsdorff’s Algorithm for Knight’s Tour
+
+->Solved Problems:
+
+  Isomorphic Strings
+
+  Merge Sorted Array
+
+  Merge Two Sorted Lists
+
+  Sign of the Product of an Array
