@@ -117,3 +117,17 @@
   Merge Two Sorted Lists
 
   Sign of the Product of an Array
+  
+### Day 8: May 3, 2023
+
+**Today's Progress**:
+
+->Studied Kruskal’s Minimum Spanning Tree Algorithm
+
+->Watched Videos on Pointers
+
+->Solved Problems:
+
+  Find the Difference of Two Arrays
+  
+  Binary Search(different approaches)
