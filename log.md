@@ -131,3 +131,13 @@
   Find the Difference of Two Arrays
   
   Binary Search(different approaches)
+
+### Day 9: May 4, 2023
+
+**Today's Progress**:
+
+->Continued Lectures on Pointers(Types)
+
+->Solved Problems:
+
+  Dota2 Senate
