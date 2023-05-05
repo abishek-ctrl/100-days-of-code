@@ -141,3 +141,13 @@
 ->Solved Problems:
 
   Dota2 Senate
+  
+### Day 10: May 5, 2023
+
+**Today's Progress**:
+
+->Completed Week-4 Videos in "Neural Networks and Deep Learning" Course
+
+->Solved Problems:
+
+  Maximum Number of Vowels in a Substring of Given Length
