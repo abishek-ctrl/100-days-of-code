@@ -151,3 +151,15 @@
 ->Solved Problems:
 
   Maximum Number of Vowels in a Substring of Given Length
+  
+### Day 11: May 6, 2023
+
+**Today's Progress**:
+
+->Worked on Week-4 assignments of "Neural Networks and Deep Learning" Course
+
+->Solved Problems:
+
+  Number of Subsequences That Satisfy the Given Sum Condition
+  
+  Find the Index of the First Occurrence in a String
