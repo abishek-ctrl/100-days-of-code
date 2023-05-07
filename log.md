@@ -163,3 +163,15 @@
   Number of Subsequences That Satisfy the Given Sum Condition
   
   Find the Index of the First Occurrence in a String
+  
+ ### Day 12: May 7, 2023
+
+**Today's Progress**:
+
+->Completed the course "Neural Networks and Deep Learning" in Deep Learning Specialization.
+
+->Solved Problems:
+  
+  Find the Longest Valid Obstacle Course at Each Position
+  
+  Climbing Stairs
