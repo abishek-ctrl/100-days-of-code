@@ -175,3 +175,19 @@
   Find the Longest Valid Obstacle Course at Each Position
   
   Climbing Stairs
+  
+ ### Day 13: May 8, 2023
+
+**Today's Progress**:
+
+->Prepared for my College Immersion Shortlisting Test tomorrow.
+
+->Solved Problems:
+
+  Maximum Subarray
+  
+  Matrix Diagonal Sum
+  
+  Intersection of Two Arrays II
+  
+  Best Time to Buy and Sell Stock
