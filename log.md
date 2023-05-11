@@ -211,3 +211,13 @@
   Spiral Matrix II
   
   Reshape the Matrix
+
+### Day 16: May 11, 2023
+
+**Today's Progress**:
+
+->Studied Problems such Celebrity Problem, Iterative Tower Of Hanoi and Stock Span Problem 
+
+->Solved Problems:
+
+  Pascal's Triangle
