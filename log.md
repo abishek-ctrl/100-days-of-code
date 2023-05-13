@@ -231,3 +231,11 @@
 ->Solved Problem:
 
   Solving Questions With Brainpower
+  
+### Day 18: May 13, 2023
+
+**Today's Progress**:
+
+->Solved Problem:
+
+  Count Ways To Build Good Strings
