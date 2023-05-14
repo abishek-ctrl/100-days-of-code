@@ -239,3 +239,17 @@
 ->Solved Problem:
 
   Count Ways To Build Good Strings
+
+### Day 19: May 14, 2023
+
+**Today's Progress**:
+
+->Studied about LangChain Framework
+
+->Solved Problems:
+
+  Valid Sudoku
+
+  First Bad Version
+
+  Maximize Score After N Operations
