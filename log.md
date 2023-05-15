@@ -253,3 +253,13 @@
   First Bad Version
 
   Maximize Score After N Operations
+
+### Day 20: May 15, 2023
+
+**Today's Progress**:
+
+->Lead a team of four and Won in Android Category(Java) of BugOff, a college Hackathon based on fixing Android bugs and Adding Features.
+
+->Solved Problems:
+
+  Swapping Nodes in a Linked List
