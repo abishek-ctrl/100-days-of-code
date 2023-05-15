@@ -1,4 +1,4 @@
-# Leetcode - Log
+# 100 Days Of Code
 
 ### Day 0: April 19, 2023
 
