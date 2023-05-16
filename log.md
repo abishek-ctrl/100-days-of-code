@@ -258,8 +258,18 @@
 
 **Today's Progress**:
 
-->Lead a team of four and Won in Android Category(Java) of BugOff, a college Hackathon based on fixing Android bugs and Adding Features.
+->Worked with a team of four and Won in Android Category(Java) of BugOff, a college Hackathon based on fixing Android bugs and Adding Features.
 
 ->Solved Problems:
 
   Swapping Nodes in a Linked List
+
+### Day 21: May 16, 2023
+
+**Today's Progress**:
+
+->Studied Concepts of Binary Search Trees and Heaps.
+
+->Solved Problems:
+
+  Swap Nodes in Pairs
