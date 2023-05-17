@@ -273,3 +273,21 @@
 ->Solved Problems:
 
   Swap Nodes in Pairs
+
+### Day 22: May 17, 2023
+
+**Today's Progress**:
+
+->Solved Two Problems in CodeChef Starters-90 Contest.
+
+->Solved Problems:
+
+  Maximum Twin Sum of a linked list
+
+  Single Number
+
+  Majority Element
+
+  Majority Element II
+
+  Most Frequent Even Element
