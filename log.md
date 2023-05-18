@@ -291,3 +291,15 @@
   Majority Element II
 
   Most Frequent Even Element
+
+### Day 23: May 18, 2023
+
+**Today's Progress**:
+
+->Studied concepts such as Pre-order, Post-order , in-order and level-order traversals.
+
+->Solved Problems:
+
+  Minimum Number of Vertices to Reach All Nodes
+
+  Recover Binary Search Tree
