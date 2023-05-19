@@ -303,3 +303,33 @@
   Minimum Number of Vertices to Reach All Nodes
 
   Recover Binary Search Tree
+
+### Day 24: May 19, 2023
+
+**Today's Progress**:
+
+->Worked with Binary Search Tree by solving with Breadth First Search.
+
+->Solved Problems:
+
+  Merge Strings Alternately
+
+  Binary Tree Level Order Traversal
+
+  Binary Tree Level Order Traversal II
+
+  Average of Levels in Binary Tree
+
+  Binary Tree Inorder Traversal
+
+  Binary Tree Preorder Traversal
+
+  Binary Tree Postorder Traversal
+
+  Is Graph Bipartite?
+
+  Greatest Common Divisor of Strings
+
+  Binary Tree Right Side View
+
+  Maximum Level Sum of a Binary Tree
