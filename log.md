@@ -357,3 +357,15 @@
   Fibonacci Number
 
 ->Will be slowing down a bit since my semester exams start from 23rd till 27th of May.
+
+### Day 25: May 20, 2023
+
+**Today's Progress**:
+
+->Solved 1 problem in Weekly Contest 346.
+
+->Solved Problems:
+
+  Minimum String Length After Removing Substrings
+
+  Shortest Bridge
