@@ -364,8 +364,13 @@
 
 ->Solved 1 problem in Weekly Contest 346.
 
+->Solved 100 problems overall in Leetcode Today.
+
 ->Solved Problems:
 
   Minimum String Length After Removing Substrings
 
   Shortest Bridge
+
+  Find First and Last Position of Element in Sorted Array
+
