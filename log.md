@@ -358,7 +358,7 @@
 
 ->Will be slowing down a bit since my semester exams start from 23rd till 27th of May.
 
-### Day 25: May 20, 2023
+### Day 26: May 21, 2023
 
 **Today's Progress**:
 
@@ -374,3 +374,12 @@
 
   Find First and Last Position of Element in Sorted Array
 
+### Day 27: May 22, 2023
+
+**Today's Progress**:
+
+->Prepared for my Term-End Semester Examination.
+
+->Solved Problem:
+
+  Top K Frequent Elements
