@@ -394,3 +394,11 @@
 
   Kth Largest Element in an Array
 
+### Day 29: May 24, 2023
+
+**Today's Progress**:
+
+->Solved Problem:
+
+  Maximum Subsequence Score
+
