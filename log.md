@@ -402,3 +402,10 @@
 
   Maximum Subsequence Score
 
+### Day 30: May 25, 2023
+
+**Today's Progress**:
+
+->Solved Problem:
+
+  New 21 Game
