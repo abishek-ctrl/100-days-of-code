@@ -425,3 +425,11 @@
 ->Solved Problem:
 
   Stone Game III
+
+### Day 33: May 28, 2023
+
+**Today's Progress**:
+
+->Solved Problem:
+
+  Minimum Cost to Cut a Stick
