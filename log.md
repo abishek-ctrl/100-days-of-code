@@ -433,3 +433,12 @@
 ->Solved Problem:
 
   Minimum Cost to Cut a Stick
+
+### Day 34: May 29, 2023
+
+**Today's Progress**:
+
+->Solved Problem:
+
+  Design Parking System
+
