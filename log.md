@@ -442,3 +442,11 @@
 
   Design Parking System
 
+### Day 35: May 30, 2023
+
+**Today's Progress**:
+
+->Solved Problem:
+
+  Design HashSet
+
