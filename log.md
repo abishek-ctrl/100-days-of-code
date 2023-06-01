@@ -458,4 +458,10 @@
 
   Design Underground System
 
+### Day 37: June 1, 2023
 
+**Today's Progress**:
+
+->Solved Problem:
+
+  Shortest Path in Binary Matrix
