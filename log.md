@@ -465,3 +465,11 @@
 ->Solved Problem:
 
   Shortest Path in Binary Matrix
+
+### Day 38: June 2, 2023
+
+**Today's Progress**:
+
+->Solved Problem:
+
+  Detonate the Maximum Bombs
