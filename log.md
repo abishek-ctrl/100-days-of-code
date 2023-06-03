@@ -473,3 +473,13 @@
 ->Solved Problem:
 
   Detonate the Maximum Bombs
+
+### Day 38: June 2, 2023
+
+**Today's Progress**:
+
+->Revised C++ STL
+
+->Solved Problem:
+
+  Time Needed to Inform All Employees
