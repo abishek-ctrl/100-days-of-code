@@ -1,335 +1,118 @@
-# 100 Days Of Code
+# 100 Days of Code Challenge
 
-### Day 0: April 19, 2023
+This repository contains my daily progress and log for the challenge. Join me on this coding journey as I commit to coding for 100 consecutive days to improve my skills and build exciting projects.
 
-**Today's Progress**: 
+## Motivation
 
-->Revised some basic ML topics like regression and clasification.
+I decided to take up the 100 days of code challenge to challenge myself and make coding a daily habit. By dedicating time every day to code, I aim to enhance my programming skills, learn new technologies, and build practical projects along the way.
 
-->Solved problems:
+## Rules
 
-  Longest Substring Without Repeating Characters.
-  
-  Merge Strings Alternately.
-  
-  Longest Common Prefix.
-  
-  Length Of Last Word.
+The rules for my 100 days of code challenge are as follows:
 
-### Day 1: April 20, 2023
+1. Code for at least one hour every day.
+2. Document my progress and learnings in the [log.md](log.md) file.
+3. Share my daily progress on social media (optional).
+4. Encourage and support fellow participants in their coding journeys.
 
-**Today's Progress**: 
+## Log
 
--> Started the Recursion playlist from CodeHelp.
+I have completed 38 days of the challenge. Here's a summary of my progress so far:
 
-->Solved Problems:
+Day 0: Revised some basic ML topics like regression and classification. Solved problems related to strings and words.
 
-  Integer To Roman.
-  
-  Median of Two Sorted Arrays.
-  
- ### Day 2: April 21, 2023
+Day 1: Started the Recursion playlist from CodeHelp and solved problems related to numbers and arrays.
 
-**Today's Progress**:
+Day 2: Practiced two pointers and more recursion, solving problems related to searching and sorting.
 
-->Practiced Two Pointers and more of Recursion.
+Day 3: Solved problems related to strings, arrays, and game theory. Took a break to prepare for exams.
 
-->Solved Problems:
+Day 4: Learned about linked lists and pointers, attended a coding contest, and solved problems on arrays and elements.
 
-  Reverse Integer.
-  
-  3Sum.
-  
-  3Sum Closest.
-  
-  Search Insert Position.
-  
-## Took a break to prepare for my examinations
- 
-### Day 3: April 28, 2023
+Day 5: Learned about C++ implementation of data structures and solved problems related to parentheses and water containers.
 
-**Today's Progress**:
+Day 6: Learned and coded Rat in a Maze, explored CNN architectures, and solved problems related to phone numbers and average salaries.
 
-->Solved Problems:
+Day 7: Studied Warnsdorff’s Algorithm and solved problems related to strings, arrays, and products.
 
-  Longest Palindromic Substring
-  
-  Find the Winner of the Circular Game
-  
-  Remove Duplicates from Sorted Array
+Day 8: Studied Kruskal’s Minimum Spanning Tree Algorithm, watched videos on pointers, and solved problems related to arrays and differences.
 
-  Similar String Groups
+Day 9: Continued lectures on pointers and solved problems related to Dota2 Senate.
 
-### Day 4: April 29, 2023
+Day 10: Completed Week-4 videos in "Neural Networks and Deep Learning" course and solved problems related to substrings.
 
-**Today's Progress**:
+Day 11: Worked on Week-4 assignments of "Neural Networks and Deep Learning" course and solved problems related to subsequences and occurrences.
 
-->Learnt Linked Lists and its types
+Day 12: Completed the course "Neural Networks and Deep Learning" in Deep Learning Specialization and solved problems related to obstacle courses and stairs.
 
-->Watched a CodeHelp video on Pointers
+Day 13: Prepared for a college immersion shortlisting test and solved problems related to subarrays and matrix diagonals.
 
-->Attended first contest on Leetcode(Biweekly Contest 103)
+Day 14: Attended the immersion tests and cleared the first round, solved problems related to spiral matrices.
 
-->Solved Problems:
+Day 15: Worked with a team and won the BugOff Hackathon, solved problems related to linked lists.
 
-  Remove Element
-  
-  Maximum Sum With Exactly K Elements(Biweekly Contest 103)
-  
-### Day 5: April 30, 2023
+Day 16: Studied problems such as the celebrity problem, tower of Hanoi, and stock span problem, and solved problems related to Pascal's triangle.
 
-**Today's Progress**:
+Day 17: Studied queue implementation, sorting of queues, stack permutation, and sliding window maximum, and solved problems related to solving questions with brainpower.
 
-->Learnt about C++ implementation of Data Structures
+Day 18: Solved problems related to building good strings.
 
-->Solved Problems:
+Day 19: Studied the LangChain framework and solved problems related to Sudoku and finding the first bad version.
 
-  Valid Parentheses
+Day 20: Won in the Android category of the BugOff Hackathon and solved problems related to swapping nodes in a linked list.
 
-  Container With Most Water
+Day 21: Studied binary search trees and heaps and solved problems related to swapping nodes in pairs.
 
-### Day 6: May 1, 2023
+Day 22: Solved problems in a CodeChef contest and solved problems related to the twin sum of a linked list and single number.
 
-**Today's Progress**:
+Day 23: Studied tree traversals and solved problems related to the minimum number of vertices and recovering binary search trees.
 
-->Learnt and coded Rat in a Maze
+Day 24: Worked with binary search trees using breadth-first search and solved various tree-related problems.
 
-->Watched videos on various CNN Architectures
+Day 25: Studied for reinforcement learning exams and solved problems related to candies, flowers, vowels, losers, and divisions.
 
-->Solved Problems:
+Day 26: Solved problems in a weekly contest and reached 100 problems solved on LeetCode.
 
-  Average Salary Excluding the Minimum and Maximum Salary
-  
-  Letter Combinations of a Phone Number
+Day 27: Prepared for term-end semester exams and solved problems related to frequent elements.
 
-### Day 7: May 2, 2023
+Day 28: Solved problem kth largest element.
 
-**Today's Progress**:
+Day 29: Solved problem maximum subsequence score.
 
-->Studied Warnsdorff’s Algorithm for Knight’s Tour
+Day 30: Solved problem New 21 Game.
 
-->Solved Problems:
+Day 31: Solved problem Stone Game II.
 
-  Isomorphic Strings
+Day 32: Solved problem Stone Game III.
 
-  Merge Sorted Array
+Day 33: Solved problem the minimum cost to cut a stick.
 
-  Merge Two Sorted Lists
+Day 34: Solved problem designing parking systems.
 
-  Sign of the Product of an Array
-  
-### Day 8: May 3, 2023
+Day 35: Solved problem designing hashsets.
 
-**Today's Progress**:
+Day 36: Solved problem designing underground systems.
 
-->Studied Kruskal’s Minimum Spanning Tree Algorithm
+Day 37: Solved problem the shortest path in a binary matrix.
 
-->Watched Videos on Pointers
+Day 38: Revised C++ STL and solved problem informing employees.
 
-->Solved Problems:
+For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
-  Find the Difference of Two Arrays
-  
-  Binary Search(different approaches)
+## Resources
 
-### Day 9: May 4, 2023
+Here are some resources that have been helpful during my 100 days of code challenge:
 
-**Today's Progress**:
+- [Leetcode](https://leetcode.com/problemset/all/)
+- [Striver Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+- [FreeCodeCamp](https://www.youtube.com/@freecodecamp)
+- [GeekForGeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms)
+- [CodeForces](https://codeforces.com/problemset)
 
-->Continued Lectures on Pointers(Types)
+Feel free to explore the repository and follow along with my progress!
 
-->Solved Problems:
+If you have any suggestions or questions, feel free to reach out. Let's stay motivated and keep coding!
 
-  Dota2 Senate
-  
-### Day 10: May 5, 2023
+## License
 
-**Today's Progress**:
-
-->Completed Week-4 Videos in "Neural Networks and Deep Learning" Course
-
-->Solved Problems:
-
-  Maximum Number of Vowels in a Substring of Given Length
-  
-### Day 11: May 6, 2023
-
-**Today's Progress**:
-
-->Worked on Week-4 assignments of "Neural Networks and Deep Learning" Course
-
-->Solved Problems:
-
-  Number of Subsequences That Satisfy the Given Sum Condition
-  
-  Find the Index of the First Occurrence in a String
-  
- ### Day 12: May 7, 2023
-
-**Today's Progress**:
-
-->Completed the course "Neural Networks and Deep Learning" in Deep Learning Specialization.
-
-->Solved Problems:
-  
-  Find the Longest Valid Obstacle Course at Each Position
-  
-  Climbing Stairs
-  
- ### Day 13: May 8, 2023
-
-**Today's Progress**:
-
-->Prepared for my College Immersion Shortlisting Test tomorrow.
-
-->Solved Problems:
-
-  Maximum Subarray
-  
-  Matrix Diagonal Sum
-  
-  Intersection of Two Arrays II
-  
-  Best Time to Buy and Sell Stock
-  
- ### Day 14: May 9, 2023
-
-**Today's Progress**:
-
-->Attended the Immersion Tests and cleared first round but couldn't clear the second round.
-
-->Solved Problems:
-  
-  Spiral Matrix
-  
- ### Day 15: May 10, 2023
-
-**Today's Progress**:
-
-->Solved Problems:
-  
-  Spiral Matrix II
-  
-  Reshape the Matrix
-
-### Day 16: May 11, 2023
-
-**Today's Progress**:
-
-->Studied Problems such Celebrity Problem, Iterative Tower Of Hanoi and Stock Span Problem 
-
-->Solved Problems:
-
-  Pascal's Triangle
-  
-### Day 17: May 12, 2023
-
-**Today's Progress**:
-
-->Studied Queue Implementation, Sorting Of Queue, Stack Permutation and Sliding Window Maximum
-
-->Solved Problem:
-
-  Solving Questions With Brainpower
-  
-### Day 18: May 13, 2023
-
-**Today's Progress**:
-
-->Solved Problem:
-
-  Count Ways To Build Good Strings
-
-### Day 19: May 14, 2023
-
-**Today's Progress**:
-
-->Studied about LangChain Framework
-
-->Solved Problems:
-
-  Valid Sudoku
-
-  First Bad Version
-
-  Maximize Score After N Operations
-
-### Day 20: May 15, 2023
-
-**Today's Progress**:
-
-->Worked with a team of four and Won in Android Category(Java) of BugOff, a college Hackathon based on fixing Android bugs and Adding Features.
-
-->Solved Problems:
-
-  Swapping Nodes in a Linked List
-
-### Day 21: May 16, 2023
-
-**Today's Progress**:
-
-->Studied Concepts of Binary Search Trees and Heaps.
-
-->Solved Problems:
-
-  Swap Nodes in Pairs
-
-### Day 22: May 17, 2023
-
-**Today's Progress**:
-
-->Solved Two Problems in CodeChef Starters-90 Contest.
-
-->Solved Problems:
-
-  Maximum Twin Sum of a linked list
-
-  Single Number
-
-  Majority Element
-
-  Majority Element II
-
-  Most Frequent Even Element
-
-### Day 23: May 18, 2023
-
-**Today's Progress**:
-
-->Studied concepts such as Pre-order, Post-order , in-order and level-order traversals.
-
-->Solved Problems:
-
-  Minimum Number of Vertices to Reach All Nodes
-
-  Recover Binary Search Tree
-
-### Day 24: May 19, 2023
-
-**Today's Progress**:
-
-->Worked with Binary Search Tree by solving with Breadth First Search.
-
-->Solved Problems:
-
-  Merge Strings Alternately
-
-  Binary Tree Level Order Traversal
-
-  Binary Tree Level Order Traversal II
-
-  Average of Levels in Binary Tree
-
-  Binary Tree Inorder Traversal
-
-  Binary Tree Preorder Traversal
-
-  Binary Tree Postorder Traversal
-
-  Is Graph Bipartite?
-
-  Greatest Common Divisor of Strings
-
-  Binary Tree Right Side View
-
-  Maximum Level Sum of a Binary Tree
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
