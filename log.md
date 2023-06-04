@@ -483,3 +483,21 @@
 ->Solved Problem:
 
   Time Needed to Inform All Employees
+
+### Day 38: June 2, 2023
+
+**Today's Progress**:
+
+->Started Recursion Series from Striver.
+
+->Solved 3 Problems on CodeForces.
+
+->Solved Problems:
+
+  Number of Provinces
+
+  Next Permutation
+
+  282A - Bit++ , 50A - Domino piling , 158A - Next Round
+
+

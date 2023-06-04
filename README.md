@@ -97,6 +97,8 @@ Day 37: Solved problem the shortest path in a binary matrix.
 
 Day 38: Revised C++ STL and solved problem informing employees.
 
+Day 39: Started Striver A2Z DSA series and A2OJ Ladder
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
