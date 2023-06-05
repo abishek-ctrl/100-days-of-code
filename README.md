@@ -95,9 +95,13 @@ Day 36: Solved problem designing underground systems.
 
 Day 37: Solved problem the shortest path in a binary matrix.
 
-Day 38: Revised C++ STL and solved problem informing employees.
+Day 38: Solved Problem Detonate the Maximum Bombs.
 
-Day 39: Started Striver A2Z DSA series and A2OJ Ladder
+Day 39: Revised C++ STL and solved problem informing employees.
+
+Day 40: Started Striver A2Z DSA series and A2OJ Ladder.
+
+Day 41: Recursion -Striver Series ,Solved Problems on LeetCode and Codeforces. 
 
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 

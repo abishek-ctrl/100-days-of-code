@@ -474,7 +474,7 @@
 
   Detonate the Maximum Bombs
 
-### Day 38: June 2, 2023
+### Day 39: June 3, 2023
 
 **Today's Progress**:
 
@@ -484,7 +484,7 @@
 
   Time Needed to Inform All Employees
 
-### Day 38: June 2, 2023
+### Day 40: June 4, 2023
 
 **Today's Progress**:
 
@@ -499,5 +499,17 @@
   Next Permutation
 
   282A - Bit++ , 50A - Domino piling , 158A - Next Round
+
+### Day 41: June 5, 2023
+
+**Today's Progress**:
+
+->Completed upto the recursion series of Striver A2Z.
+
+->Solved Problems:
+
+  Check If It Is a Straight Line
+
+  263A - Beautiful Matrix
 
 
