@@ -512,4 +512,19 @@
 
   263A - Beautiful Matrix
 
+### Day 42: June 6, 2023
+
+**Today's Progress**:
+
+->Revised Javascript through freecodecamp.
+
+->Solved Problems:
+
+  Can Make Arithmetic Progression From Sequence
+
+  266B - Queue at the School	, 271A - Beautiful Year ,32B -Borze
+
+-> Created a Repo for A2OJ Ladder Progress.
+
+
 

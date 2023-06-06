@@ -103,6 +103,8 @@ Day 40: Started Striver A2Z DSA series and A2OJ Ladder.
 
 Day 41: Recursion -Striver Series ,Solved Problems on LeetCode and Codeforces. 
 
+Day 42: Javascript Revision and Codeforces.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
