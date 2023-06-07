@@ -105,6 +105,8 @@ Day 41: Recursion -Striver Series ,Solved Problems on LeetCode and Codeforces.
 
 Day 42: Javascript Revision and Codeforces.
 
+Day 43: Hashing -Striver Series.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
