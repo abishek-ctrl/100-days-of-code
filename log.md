@@ -536,6 +536,19 @@
 
   Minimum Flips to Make a OR b Equal to c
 
+### Day 44: June 8, 2023
+
+**Today's Progress**:
+
+->Had a busy day , so couldnt really learn anything new today.
+
+->Revised some old problems that I solved in the earlier days.
+
+->Solved Problem:
+
+  Count Negative Numbers in a Sorted Matrix
+
+
 
 
 
