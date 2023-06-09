@@ -109,6 +109,8 @@ Day 43: Hashing -Striver Series.
 
 Day 44: Revise Old Problems(BUSY day).
 
+Day 45: Did some array and recursion problems.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
