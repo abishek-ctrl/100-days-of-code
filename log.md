@@ -566,7 +566,15 @@
 
   Combination Sum II
 
+### Day 46: June 10, 2023
 
+**Today's Progress**:
 
+->Started CP Handbook by Antti Laaksonen.
 
+->Revising Tensorflow Concepts.
+
+->Solved Problem:
+
+  Maximum Value at a Given Index in a Bounded Array
 
