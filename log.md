@@ -578,3 +578,18 @@
 
   Maximum Value at a Given Index in a Bounded Array
 
+### Day 46: June 10, 2023
+
+**Today's Progress**:
+
+->Completed the Data Structures chapter in the CP Handbook.
+
+->Started Week-1 of Improving Deep Neural Networks course in Coursera.
+
+->Solved Problem:
+
+  Snapshot Array
+
+  Find Target Indices After Sorting Array
+
+  String to Integer (atoi)

@@ -113,6 +113,8 @@ Day 45: Did some array and recursion problems.
 
 Day 46: Started CP handbook.
 
+Day 47: Continued the Deep Learning Specialization in Coursera.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
