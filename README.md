@@ -115,6 +115,8 @@ Day 46: Started CP handbook.
 
 Day 47: Continued the Deep Learning Specialization in Coursera.
 
+Day 48: Reached 5 Star Ranking in C++ - HackerRank.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources

@@ -593,3 +593,17 @@
   Find Target Indices After Sorting Array
 
   String to Integer (atoi)
+
+### Day 47: June 11, 2023
+
+**Today's Progress**:
+
+->Completed Problems in HackerRank and Attained 5 Stars in CPP.
+
+->Solved Problem:
+
+  Summary Ranges
+
+  Climbing Stairs
+
+  Product of Array Except Self
