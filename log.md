@@ -578,7 +578,7 @@
 
   Maximum Value at a Given Index in a Bounded Array
 
-### Day 46: June 10, 2023
+### Day 47: June 11, 2023
 
 **Today's Progress**:
 
@@ -594,7 +594,7 @@
 
   String to Integer (atoi)
 
-### Day 47: June 11, 2023
+### Day 48: June 12, 2023
 
 **Today's Progress**:
 
@@ -607,3 +607,16 @@
   Climbing Stairs
 
   Product of Array Except Self
+
+### Day 49: June 13, 2023
+
+**Today's Progress**:
+
+->Continued Striver's Array Problems.
+
+->Solved Problem:
+
+  Equal Row and Column Pairs
+
+
+
