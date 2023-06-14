@@ -618,5 +618,40 @@
 
   Equal Row and Column Pairs
 
+### Day 50: June 14, 2023
+
+**Today's Progress**:
+
+->Completed Array Section in Striver DSA Sheet.
+
+->Solved few GFG problems.
+
+->Continued the Regularisation and Optimisation topics in Coursera.
+
+->Solved Problems(ez):
+
+  Minimum Absolute Difference in BST
+
+  Single Number , Single Number II , Single Number III
+
+  Max Consecutive Ones
+
+  Missing Number
+
+  Find the Duplicate Number
+
+  Move Zeroes
+
+  Number of Arithmetic Triplets
+
+  
+
+
+
+
+
+
+
+
 
 

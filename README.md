@@ -119,6 +119,8 @@ Day 48: Reached 5 Star Ranking in C++ - HackerRank.
 
 Day 49: Continued Striver DSA Array Questions.
 
+Day 50: Solved the Array section in Striver DSA.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
