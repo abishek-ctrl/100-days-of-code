@@ -121,6 +121,8 @@ Day 49: Continued Striver DSA Array Questions.
 
 Day 50: Solved the Array section in Striver DSA.
 
+Day 51: Started PyTorch and Python Backend(Django).
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
