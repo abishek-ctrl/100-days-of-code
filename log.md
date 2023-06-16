@@ -662,6 +662,21 @@
 
   Increasing Triplet Subsequence.
 
+### Day 52: June 16, 2023
+
+**Today's Progress**:
+
+->Continued the Coursera course on Deep Learning.
+
+->Followed up on Django for Backend.
+
+->Solved problems in Striver Sheet.
+
+->Solved problem:
+
+  Number of Ways to Reorder Array to Get Same BST
+
+
 
 
 
