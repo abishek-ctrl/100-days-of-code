@@ -125,6 +125,8 @@ Day 51: Started PyTorch and Python Backend(Django).
 
 Day 52: Followed up on more Django and some intro to FastAPI.
 
+Day 53: Started the Google Data Analytics Certification.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources

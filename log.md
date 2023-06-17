@@ -676,6 +676,19 @@
 
   Number of Ways to Reorder Array to Get Same BST
 
+### Day 53: June 17, 2023
+
+**Today's Progress**:
+
+->Continued the Coursera course on Deep Learning.
+
+->Started Google Data Analytics Certification Course.
+
+->Solved some Array Medium Problems on Striver DSA.
+
+->Solved problem:
+
+  Make Array Strictly Increasing
 
 
 
