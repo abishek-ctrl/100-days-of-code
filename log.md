@@ -690,6 +690,24 @@
 
   Make Array Strictly Increasing
 
+### Day 54: June 18, 2023
+
+**Today's Progress**:
+
+->Completed Week-1 of Course-2 of Deep Learning.
+
+->Worked on basic Keras Algorithm Implementation.
+
+->Solved problems:
+
+  Number of Increasing Paths in a Grid.
+
+  Two Sum II - Input Array Is Sorted
+
+->Will be working on one mini project per week/ demanding project per month.
+
+
+
 
 
 
