@@ -129,6 +129,8 @@ Day 53: Started the Google Data Analytics Certification.
 
 Day 54: Implemented various algorithms in Keras.
 
+Day 55: Followed Striver Sheet and some Pytorch.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources

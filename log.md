@@ -706,6 +706,26 @@
 
 ->Will be working on one mini project per week/ demanding project per month.
 
+### Day 55: June 19, 2023
+
+**Today's Progress**:
+
+->Worked on some PyTorch concepts.
+
+->Solved some DSA problems in GFG.
+
+->Followed upon StriverA2Z sheet for Array-Medium Problems.
+
+->Solved Problems:
+
+  Max Number of K-Sum Pairs
+
+  Jump Game
+
+  Find the Highest Altitude
+
+
+
 
 
 
