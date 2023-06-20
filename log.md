@@ -724,6 +724,22 @@
 
   Find the Highest Altitude
 
+### Day 56: June 20, 2023
+
+**Today's Progress**:
+
+->Worked on more common recursion concepts and subsequences.
+
+->Followed upon Data Analytics and IBM AI Engineering Specialization course.
+
+->Solved problems:
+
+  K Radius Subarray Averages
+
+  Worked on different solutions for Combination Sum problems.
+
+
+
 
 
 
