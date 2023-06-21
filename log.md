@@ -738,6 +738,19 @@
 
   Worked on different solutions for Combination Sum problems.
 
+### Day 57: June 21, 2023
+
+**Today's Progress**:
+
+->Solved 4 Problems on CodeChef Starter-95. Used a lengthy approach on 4th approach(revisit).
+
+->Worked on Coursera assignments for IBM AI Engineering Course-I.
+
+->Solved Problems:
+
+  Minimum Cost to Make Array Equal
+
+
 
 
 

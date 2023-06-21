@@ -133,6 +133,8 @@ Day 55: Followed Striver Sheet and some Pytorch.
 
 Day 56: Worked on Recursion concepts.
 
+Day 57: Worked on Coursera Assignments and Starters 95.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
