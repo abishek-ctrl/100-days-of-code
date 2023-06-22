@@ -750,6 +750,21 @@
 
   Minimum Cost to Make Array Equal
 
+### Day 58: June 22, 2023
+
+**Today's Progress**:
+
+->Worked on Keras based Regression models with multiple tuning as part of assignments.
+
+->Completed the second course on IBM AI Engineering Specialization along with the assignments.
+
+->Learnt more on Regularisation techniques , Gradient Checking and Mini Batch Gradient optimization techniques.
+
+->Worked on 4 problems on CSES platform.
+
+->Solved Problem:
+
+  Best Time to Buy and Sell Stock with Transaction Fee
 
 
 
