@@ -1,5 +1,40 @@
+#BetterApproach
 
-#ReWork this approach
+#include <iostream>
+#include <stack>
+#include <unordered_map>
+#include <vector>
+using namespace std;
+
+void solve(){
+    int n;
+    cin>>n;
+    stack<string> st;
+    string temp;
+    for(int i=0;i<n;i++){
+        cin>>temp;
+        st.push(temp);
+    }
+    unordered_map<string,int> mp;
+    while(!st.empty()){
+        temp=st.top();
+        if(mp[temp]==1) st.pop();
+        else{
+            cout<<temp[temp.size()-2]<<temp[temp.size()-1];
+            mp[temp]=1;
+            st.pop();
+        }
+    }
+    cout<<endl;
+    
+}
+
+int main() {
+    solve();
+    return 0;
+}
+
+#ContestApproach
 
 #include <iostream>
 #include <stack>
