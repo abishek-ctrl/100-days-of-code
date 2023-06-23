@@ -766,6 +766,17 @@
 
   Best Time to Buy and Sell Stock with Transaction Fee
 
+### Day 59: June 23, 2023
+
+**Today's Progress**:
+
+->Learnt Gradient Descent using Momentum , RMSProp and Adam Algorithms.
+
+->Solved Problems:
+
+  Longest Arithmetic Subsequence
+
+
 
 
 

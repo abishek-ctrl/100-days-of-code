@@ -137,6 +137,8 @@ Day 57: Worked on Coursera Assignments and Starters 95.
 
 Day 58: Learnt more Model optimization techniques and practiced on CSES platform.
 
+Day 59: Followed through techniques like RMSProp and Adam.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
