@@ -772,9 +772,24 @@
 
 ->Learnt Gradient Descent using Momentum , RMSProp and Adam Algorithms.
 
-->Solved Problems:
+->Solved Problem:
 
   Longest Arithmetic Subsequence
+
+### Day 60: June 24, 2023
+
+**Today's Progress**:
+
+->Worked on Data Analytics Course.
+
+->Got more intuition towards recursion and DP problems.
+
+->Solved Problem:
+
+  Tallest Billboard
+
+
+
 
 
 
