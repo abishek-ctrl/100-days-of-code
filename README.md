@@ -141,6 +141,8 @@ Day 59: Followed through techniques like RMSProp and Adam.
 
 Day 60: Continued Data Analytics Course.
 
+Day 61:More on Keras functions.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
