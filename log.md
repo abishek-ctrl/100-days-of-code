@@ -788,6 +788,18 @@
 
   Tallest Billboard
 
+### Day 61: June 25, 2023
+
+**Today's Progress**:
+
+->Worked on Keras functions.
+
+->Solved Problem:
+
+  Count All Possible Routes
+
+  
+
 
 
 
