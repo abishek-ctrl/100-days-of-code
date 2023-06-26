@@ -143,6 +143,8 @@ Day 60: Continued Data Analytics Course.
 
 Day 61:More on Keras functions.
 
+Day 62:Revised on Abdul Bari playlist.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources

@@ -798,6 +798,21 @@
 
   Count All Possible Routes
 
+### Day 62: June 26, 2023
+
+**Today's Progress**:(Busy Day)
+
+->Started watching Abdul Bari Youtube playlist for Algorithms Revision.
+
+->Worked on some codeforces past contest problems.
+
+->Solved Problem:
+
+  Total Cost to Hire K Workers
+
+
+
+
   
 
 
