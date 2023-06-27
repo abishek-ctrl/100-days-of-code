@@ -810,6 +810,17 @@
 
   Total Cost to Hire K Workers
 
+### Day 63: June 27, 2023
+
+**Today's Progress**:
+
+->Watched videos on Heaps(Min and Max).
+
+->Solved Problem:
+  
+  Find K Pairs with Smallest Sums
+
+
 
 
 

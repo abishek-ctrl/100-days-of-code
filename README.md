@@ -145,6 +145,8 @@ Day 61:More on Keras functions.
 
 Day 62:Revised on Abdul Bari playlist.
 
+Day 63: Watched lectures on heaps.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
