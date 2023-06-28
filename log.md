@@ -820,6 +820,17 @@
   
   Find K Pairs with Smallest Sums
 
+### Day 64: June 28, 2023
+
+**Today's Progress**:
+
+->Solved 4 Problems in CodeChef Starter-96. Wasted too much time on 4th problem.
+
+->Solved Problem:
+
+  Path with Maximum Probability
+
+
 
 
 

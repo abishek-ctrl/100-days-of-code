@@ -141,11 +141,13 @@ Day 59: Followed through techniques like RMSProp and Adam.
 
 Day 60: Continued Data Analytics Course.
 
-Day 61:More on Keras functions.
+Day 61: More on Keras functions.
 
-Day 62:Revised on Abdul Bari playlist.
+Day 62: Revised on Abdul Bari playlist.
 
 Day 63: Watched lectures on heaps.
+
+Day 64: Solved 4 problems on Starters 96.
 
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
