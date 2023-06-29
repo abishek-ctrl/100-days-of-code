@@ -149,6 +149,8 @@ Day 63: Watched lectures on heaps.
 
 Day 64: Solved 4 problems on Starters 96.
 
+Day 65: Worked on linked list problems.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
