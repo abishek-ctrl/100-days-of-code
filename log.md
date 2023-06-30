@@ -704,8 +704,6 @@
 
   Two Sum II - Input Array Is Sorted
 
-->Will be working on one mini project per week/ demanding project per month.
-
 ### Day 55: June 19, 2023
 
 **Today's Progress**:
@@ -843,6 +841,26 @@
   Remove Nth Node From End of List
   
   Reverse Linked List
+
+### Day 66: June 30, 2023
+
+**Today's Progress**:
+
+->Worked on problems from previous leetcode contests.
+
+->Solved Problems:
+
+  Last Day Where You Can Still Cross
+
+  Find Maximum Number of String Pairs
+
+  Number of Beautiful Pairs
+
+  Construct the Longest New String
+
+
+
+
 
 
 

@@ -151,6 +151,8 @@ Day 64: Solved 4 problems on Starters 96.
 
 Day 65: Worked on linked list problems.
 
+Day 66: Solved leetcode contest problems.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
