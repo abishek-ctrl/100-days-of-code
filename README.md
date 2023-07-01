@@ -153,6 +153,8 @@ Day 65: Worked on linked list problems.
 
 Day 66: Solved leetcode contest problems.
 
+Day 67: Watched videos on Graph problems.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources

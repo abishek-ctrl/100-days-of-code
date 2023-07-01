@@ -858,6 +858,16 @@
 
   Construct the Longest New String
 
+### Day 67: July 1, 2023
+
+**Today's Progress**:
+
+->Watched videos on graph based problems.
+
+->Solved Problem:
+
+  Fair Distribution of Cookies
+
 
 
 
