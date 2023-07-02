@@ -155,6 +155,8 @@ Day 66: Solved leetcode contest problems.
 
 Day 67: Watched videos on Graph problems.
 
+Day 68: Watched some DP related videos.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources

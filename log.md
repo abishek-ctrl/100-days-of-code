@@ -868,6 +868,22 @@
 
   Fair Distribution of Cookies
 
+### Day 67: July 1, 2023
+
+**Today's Progress**:
+
+->Watched some videos on DP problems.
+
+->Solved Problems:
+
+  Maximum Number of Achievable Transfer Requests
+
+  Find if Path Exists in Graph
+
+
+
+
+
 
 
 
