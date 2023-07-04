@@ -159,6 +159,8 @@ Day 68: Watched some DP related videos.
 
 Day 69: Revised some HTML CSS concepts.
 
+Day 70: Revised previously solved problems.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
