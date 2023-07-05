@@ -161,6 +161,8 @@ Day 69: Revised some HTML CSS concepts.
 
 Day 70: Revised previously solved problems.
 
+Day 71: Solved problems in Starters-97.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources

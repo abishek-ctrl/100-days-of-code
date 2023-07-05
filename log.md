@@ -902,6 +902,17 @@
 
   Single Number II(solved before)
 
+### Day 71: July 5, 2023
+
+**Today's Progress**:
+
+->Solved 4 Problems in CodeChef Starters-97 Contest.
+
+->Worked on some LLM concepts.
+
+->Solved Problem:
+
+  Longest Subarray of 1's After Deleting One Element
 
 
 
