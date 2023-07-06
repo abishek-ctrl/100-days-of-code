@@ -914,6 +914,19 @@
 
   Longest Subarray of 1's After Deleting One Element
 
+### Day 72: July 6, 2023
+
+**Today's Progress**:
+
+->Worked on some binary search problems.
+
+->Upsolving contest problems.
+
+->Solved Problem:
+
+  Minimum Size Subarray Sum
+
+
 
 
 
