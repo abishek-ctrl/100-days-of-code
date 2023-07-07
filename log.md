@@ -926,6 +926,17 @@
 
   Minimum Size Subarray Sum
 
+### Day 73: July 7, 2023
+
+**Today's Progress**:
+
+->Continued on some BS problem lectures.
+
+->Solved Problem:
+
+  Maximize the Confusion of an Exam
+
+
 
 
 
