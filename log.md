@@ -936,6 +936,17 @@
 
   Maximize the Confusion of an Exam
 
+### Day 74: July 8, 2023
+
+**Today's Progress**:
+
+->Solved previously solved problems.
+
+->Solved Problem:
+
+  Put Marbles in Bags
+
+
 
 
 
