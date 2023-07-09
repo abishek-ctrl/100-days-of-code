@@ -946,6 +946,17 @@
 
   Put Marbles in Bags
 
+### Day 75: July 9, 2023
+
+**Today's Progress**:
+
+->Solved some contest problems.
+
+->Solved Problem:
+
+  Substring With Largest Variance
+
+
 
 
 

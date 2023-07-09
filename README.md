@@ -167,7 +167,9 @@ Day 72: Upsolving Contest Problems.
 
 Day 73: Binary Search Intuition and Problems.
 
-Day 74: Solving previously solved problems.
+Day 74: Worked on previously solved problems.
+
+Day 75: Solved contest problems.
 
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
