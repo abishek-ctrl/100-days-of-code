@@ -956,6 +956,17 @@
 
   Substring With Largest Variance
 
+### Day 76: July 10, 2023
+
+**Today's Progress**:
+
+->Worked on contest problems.
+
+->Solved Problem:
+
+  Minimum Depth of Binary Tree
+
+
 
 
 
