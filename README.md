@@ -173,6 +173,8 @@ Day 75: Solved contest problems.
 
 Day 76: Solved contest problems.
 
+Day 77: Worked on Book Recommender System.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources

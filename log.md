@@ -966,6 +966,17 @@
 
   Minimum Depth of Binary Tree
 
+### Day 77: July 11, 2023
+
+**Today's Progress**:
+
+->Started working on a Book Recommender System project.
+
+->Solved Problem:
+
+  All Nodes Distance K in Binary Tree
+
+
 
 
 
