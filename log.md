@@ -976,6 +976,31 @@
 
   All Nodes Distance K in Binary Tree
 
+### Day 78: July 12, 2023
+
+**Today's Progress**:
+
+->Solved Five Problems in CodeChef Starters-98 Contest(Reached 2-star rating).
+
+->Solved Problem:
+
+  Find Eventual Safe States
+
+### Day 79: July 13, 2023
+
+**Today's Progress**:
+
+->Worked on Book Recommender Project.
+
+->Solving 1500 range problems on codechef.
+
+->Solved Problems:
+
+  Course Schedule
+
+
+
+
 
 
 

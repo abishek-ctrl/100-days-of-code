@@ -177,6 +177,8 @@ Day 77: Worked on Book Recommender System.
 
 Day 78: Solved Problems in Starter 98.
 
+Day 79:Book Recommender and Codechef problems.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
