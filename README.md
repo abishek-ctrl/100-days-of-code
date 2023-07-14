@@ -179,6 +179,8 @@ Day 78: Solved Problems in Starter 98.
 
 Day 79:Book Recommender and Codechef problems.
 
+Day 80:Solved Easy-Hard GFG problems on Arrays.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources

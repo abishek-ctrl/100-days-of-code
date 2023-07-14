@@ -998,6 +998,17 @@
 
   Course Schedule
 
+### Day 80: July 14, 2023
+
+**Today's Progress**:
+
+->Solved Easy to Hard problems of Arrays on GFG.
+
+->Solved Problems:
+
+  Longest Arithmetic Subsequence of Given Difference
+
+
 
 
 
