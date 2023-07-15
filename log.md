@@ -1008,6 +1008,17 @@
 
   Longest Arithmetic Subsequence of Given Difference
 
+### Day 81: July 15, 2023
+
+**Today's Progress**:
+
+->Solved remaining array problems of Arrays on GFG.
+
+->Solved Problems:
+
+  Maximum Number of Events That Can Be Attended II
+
+
 
 
 
