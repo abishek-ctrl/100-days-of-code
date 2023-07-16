@@ -1018,6 +1018,17 @@
 
   Maximum Number of Events That Can Be Attended II
 
+### Day 82: July 16, 2023
+
+**Today's Progress**:
+
+->Played around with AutoGPT features.
+
+->Solved Problem:
+
+  Smallest Sufficient Team
+
+
 
 
 
