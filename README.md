@@ -185,6 +185,8 @@ Day 81:Continued with remaining problems from Yesterday.
 
 Day 82: Played around with AutoGPT features.
 
+Day 83: Revised Django Concepts in Python for Backend.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources

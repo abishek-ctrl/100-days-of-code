@@ -1028,6 +1028,20 @@
 
   Smallest Sufficient Team
 
+### Day 83: July 17, 2023
+
+**Today's Progress**:
+
+->Learnt Backend API concepts with Django.
+
+->Continued the Data Analytics Course.
+
+->Solved Problem:
+
+  Add Two Numbers II
+
+
+
 
 
 
