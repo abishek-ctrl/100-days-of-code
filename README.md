@@ -189,6 +189,8 @@ Day 83: Revised Django Concepts in Python for Backend.
 
 Day 84: Continued the Backend Concepts and Upsolving.
 
+Day 85: Did some codechef problems.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
