@@ -1062,6 +1062,19 @@
 
   Non-overlapping Intervals
 
+### Day 86: July 20, 2023
+
+**Today's Progress**:
+
+->Continued some Backend topics.
+
+->Solved Problem:
+
+  Asteroid Collision
+
+  Sum of Squares of Special Elements
+
+
 
 
 

@@ -191,6 +191,8 @@ Day 84: Continued the Backend Concepts and Upsolving.
 
 Day 85: Did some codechef problems.
 
+Day 86: Followed upon some Backend topics.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
