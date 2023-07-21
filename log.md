@@ -1074,6 +1074,15 @@
 
   Sum of Squares of Special Elements
 
+### Day 87: July 21, 2023
+
+**Today's Progress**:
+
+->Continued with the Data Analytics Course.
+
+->Solved Problem:
+
+  Number of Longest Increasing Subsequence
 
 
 

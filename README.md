@@ -193,6 +193,8 @@ Day 85: Did some codechef problems.
 
 Day 86: Followed upon some Backend topics.
 
+Day 87: Continued with the Data Analysis Course.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
