@@ -1084,6 +1084,24 @@
 
   Number of Longest Increasing Subsequence
 
+### Day 88: July 22, 2023
+
+**Today's Progress**:
+
+->Solved Problem:
+
+  Knight Probability in Chessboard
+
+### Day 89: July 23, 2023
+
+**Today's Progress**:
+
+->Continued the Data Analytics Course.
+
+->Solved Problem:
+
+  All Possible Full Binary Trees
+
 
 
 
