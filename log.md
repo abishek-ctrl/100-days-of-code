@@ -1088,6 +1088,8 @@
 
 **Today's Progress**:
 
+->Worked on a few Greedy Problems.
+
 ->Solved Problem:
 
   Knight Probability in Chessboard
