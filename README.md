@@ -201,6 +201,8 @@ Day 89: Continued with the Data Analytics Course.
 
 Day 90: Started working on a ML based project.
 
+Day 91: Solved some CF Problems.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
