@@ -1126,6 +1126,17 @@
 
   Peak Index in a Mountain Array
 
+### Day 92: July 26, 2023
+
+**Today's Progress**:
+
+->Continued with the Data Analytics Course.
+
+->Solved Problem:
+
+  Minimum Speed to Arrive on Time
+
+
 
 
 

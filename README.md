@@ -203,6 +203,8 @@ Day 90: Started working on a ML based project.
 
 Day 91: Solved some CF Problems.
 
+Day 92: Continued with the course.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
