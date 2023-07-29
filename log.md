@@ -1146,7 +1146,7 @@
 
   Maximum Running Time of N Computers
 
-### Day 93: July 27, 2023
+### Day 94: July 28, 2023
 
 **Today's Progress**:
 
@@ -1155,6 +1155,19 @@
 ->Solved Problem:
 
   Predict the Winner
+
+### Day 95: July 29, 2023
+
+**Today's Progress**:
+
+->Continued with the Data Analytics Course.
+
+->Solved Problem:
+
+  Soup Servings
+
+
+
 
 
 
