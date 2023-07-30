@@ -1166,6 +1166,20 @@
 
   Soup Servings
 
+### Day 96: July 30, 2023
+
+**Today's Progress**:
+
+->Worked on the sentiment analysis project.
+
+->Solved some previously solved problems.
+
+->Solved Problem:
+
+  Strange Printer
+
+
+
 
 
 
