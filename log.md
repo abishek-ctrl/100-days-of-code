@@ -1178,6 +1178,14 @@
 
   Strange Printer
 
+### Day 97: July 31, 2023
+
+**Today's Progress**:
+
+->Solved Problem:
+
+  Minimum ASCII Delete Sum for Two Strings
+
 
 
 
