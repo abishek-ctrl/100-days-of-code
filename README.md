@@ -213,6 +213,10 @@ Day 95: Continued with the course.
 
 Day 96: Solved some past solved problems and Worked on Sentiment Analysis.
 
+Day 97:Solved some past solved problems.
+
+Day 98: Worked on the ML project.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources
