@@ -217,6 +217,8 @@ Day 97:Solved some past solved problems.
 
 Day 98: Worked on the ML project.
 
+Day 99: Followed up on the project.
+
 For a detailed log of each day's activities, check out the [log.md](log.md) file.
 
 ## Resources

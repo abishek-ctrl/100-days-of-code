@@ -1198,6 +1198,16 @@
 
   Combinations
 
+### Day 99: August 2, 2023
+
+**Today's Progress**:
+
+->Continued with the langchain project.
+
+->Solved Problem:
+
+  Permutations
+
 
 
 
