@@ -11,11 +11,13 @@ I decided to take up the 100 days of code challenge to challenge myself and make
 The rules for my 100 days of code challenge are as follows:
 
 1. Code for at least one hour every day.
-2. Document my progress and learnings in the [log.md](log.md) file.
+2. Document my progress and learnings in the [log-r1.md](log-r1.md) file.
 3. Share my daily progress on social media (optional).
 4. Encourage and support fellow participants in their coding journeys.
 
-## Log
+## Log 
+
+### R-1 (Completed)
 
 I have completed 38 days of the challenge. Here's a summary of my progress so far:
 
@@ -219,7 +221,11 @@ Day 98: Worked on the ML project.
 
 Day 99: Followed up on the project.
 
-For a detailed log of each day's activities, check out the [log.md](log.md) file.
+Day 100: Completed the PDFChat application through streamlit.
+
+### Completed First 100 Days of Code.
+
+For a detailed log of each day's activities, check out the [log-r1.md](log-r1.md) file.
 
 ## Resources
 

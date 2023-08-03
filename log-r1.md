@@ -1208,6 +1208,19 @@
 
   Permutations
 
+### Day 100: August 3, 2023
+
+**Today's Progress**:
+
+->Completed the PDFChat project with Langchain.
+
+  Repo : https://github.com/abishek-ctrl/pdf-chat-langchain/
+
+->Solved Problem:
+
+  Letter Combinations of a Phone Number
+
+# Completion of the first #100DaysOfCode Challenge
 
 
 
