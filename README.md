@@ -222,7 +222,7 @@ Day 98: Worked on the ML project.
 Day 99: Followed up on the project.
 
 Day 100: Completed the PDFChat application through streamlit.
-
+ 
 ### Completed First 100 Days of Code.
 
 For a detailed log of each day's activities, check out the [log-r1.md](log-r1.md) file.
